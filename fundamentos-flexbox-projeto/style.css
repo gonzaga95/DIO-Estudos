@@ -124,7 +124,7 @@ header .list-items{
 #servicos h2{
     color: #fff;
     font-size: 32px;
-    margin-bottom: 20px;
+    margin-bottom: 2rem;
 }
 
 .list-servicos{
@@ -134,18 +134,19 @@ header .list-items{
 }
 
 .item-servico{
-    align-items: center
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 
 .item-servico a{
-    width: 220px;
+    width: 10rem;
     background-color: #fff;
     border-radius: 30px;
-    height: 50px;
     text-align: center;
     margin-top: 20px;
-    line-height: 70px;
-    padding: 5px 10px;
+    line-height: 40px;
     color: #122A57;
     text-decoration: none;
     font-size: 12px;
