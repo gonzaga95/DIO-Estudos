@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    width: 100%;
+    height: 100vh;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    gap: 2rem;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    margin-bottom: 0.6rem;
+}
+
+/* li input:checked ~ li {
+    text-decoration: dashed;
+} */
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-self: flex-end;
+}
