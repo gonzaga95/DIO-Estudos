@@ -33,26 +33,3 @@ incrementButton.addEventListener("click", function () {
         decrementButton.style.visibility = "visible";
     }
 });
-
-// currentNumberWrapper.addEventListener("change", function () {
-//     if (currentNumber > 0) {
-//         currentNumberWrapper.style.color = "#006400";
-//         if (currentNumber >= 10) {
-//             incrementButton.style.display = "none";
-//         } else {
-//             incrementButton.style.display = "block";
-//         }
-//     } else if (currentNumber === 0) {
-//         currentNumberWrapper.style.color = "black";
-//     }
-//     if (currentNumber < 0) {
-//         currentNumberWrapper.style.color = "#9B0000";
-//         if (currentNumber <= -10) {
-//             decrementButton.style.visibility = "hidden";
-//         } else {
-//             decrementButton.style.display = "block";
-//         }
-//     } else if (currentNumber === 0) {
-//         currentNumberWrapper.style.color = "black";
-//     }
-// });

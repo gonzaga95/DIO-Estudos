@@ -17,6 +17,15 @@ main {
     flex-direction: column;
 }
 
+p {
+    padding-bottom: 1rem;
+}
+
+main a {
+    text-decoration: none;
+    color: black;
+}
+
 button {
     height: 40px;
     width: 40px;
