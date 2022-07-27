@@ -8,4 +8,4 @@ Neste projeto, iremos fazer a nossa primeira integração de um código Javascri
 2. Crie condicionais para desabilitar o botão de incrementar ou decrementar quando o `count` chegar a um determinado valor.
 3. Mude a cor do texto em `currentNumber` para vermelho quando o valor for negativo e verde quando positivo.
 
-> Introdução ao JavaScript na DIO.me
+> Introdução ao JavaScript na (dio.me)[DIO.me]
