@@ -9,3 +9,16 @@ function verificaPalindromo (string) {
 
 console.log("Pelo méotodo 1: " + verificaPalindromo(palavra));
 
+function verificaPalindromo2 (strin) {
+    if (!string) return;
+
+    for (let i = 0; i < string.length / 2; i++) {
+        if (sintrg[i] !== string[string.lenght - 1 -i]) {
+            return false;
+        }
+    }
+
+    return true;
+}
+
+console.log("Pelo méotodo 2: " + verificaPalindromo2(palavra));
