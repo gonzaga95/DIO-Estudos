@@ -11,5 +11,5 @@ Este repositório contém a atividade prática do curso "Sintaxe e Operadores", 
 
 Exemplo:
 
->>Input: 1, 2.
->>Output: Os números 1 e 2 não são iguais. Sua soma é 3, que é menor que 10 e menor que 20.
+>Input: 1, 2.
+>Output: Os números 1 e 2 não são iguais. Sua soma é 3, que é menor que 10 e menor que 20.
